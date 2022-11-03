@@ -1,3 +1,5 @@
+passwd = "cool"
+
 const html404 = `<!DOCTYPE html>
 <body>
   <h1>404 Not Found.</h1>
